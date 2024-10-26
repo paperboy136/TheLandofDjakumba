@@ -1,4 +1,4 @@
-# TheLandofDjakumba
+# The Land of Djakumba
 Developer: Mwamba Studios
 Release Date: TBD
 Genre: Role-Playing Game (RPG)
